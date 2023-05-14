@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8515</DEVICE>
+ <WORKING_DIR>D:\bmstu\sem6\mps\labs\lab1\lab1task</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:\apps\avr-studio\avr-studio-4\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\bmstu\sem6\mps\labs\lab1\lab1task\lab1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\apps\avr-studio\avr-studio-4\AvrAssembler2\Appnotes\m8515def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\bmstu\sem6\mps\labs\lab1\lab1task\lab1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\bmstu\sem6\mps\labs\lab1\lab1task\lab1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\bmstu\sem6\mps\labs\lab1\lab1task\lab1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>D:\bmstu\sem6\mps\labs\lab1\lab1task\lab1.asm</FILE><LINE>21</LINE></init>
+  <WAITSTART><FILE>D:\bmstu\sem6\mps\labs\lab1\lab1task\lab1.asm</FILE><LINE>34</LINE></WAITSTART>
+  <LOOP><FILE>D:\bmstu\sem6\mps\labs\lab1\lab1task\lab1.asm</FILE><LINE>37</LINE></LOOP>
+  <d1><FILE>D:\bmstu\sem6\mps\labs\lab1\lab1task\lab1.asm</FILE><LINE>42</LINE></d1>
+  <d2><FILE>D:\bmstu\sem6\mps\labs\lab1\lab1task\lab1.asm</FILE><LINE>43</LINE></d2>
+  <d3><FILE>D:\bmstu\sem6\mps\labs\lab1\lab1task\lab1.asm</FILE><LINE>44</LINE></d3>
+  <RIGHT><FILE>D:\bmstu\sem6\mps\labs\lab1\lab1task\lab1.asm</FILE><LINE>56</LINE></RIGHT>
+  <LEFT><FILE>D:\bmstu\sem6\mps\labs\lab1\lab1task\lab1.asm</FILE><LINE>64</LINE></LEFT>
+ </LABELS>
+</ASSEMBLER_INFO>

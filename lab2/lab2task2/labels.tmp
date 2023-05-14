@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8515</DEVICE>
+ <WORKING_DIR>D:\bmstu\sem6\mps\labs\lab2\lab2task2</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:\apps\avr-studio\avr-studio-4\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\apps\avr-studio\avr-studio-4\AvrAssembler2\Appnotes\m8515def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.asm</FILE><LINE>14</LINE></INIT>
+  <led_on1><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.asm</FILE><LINE>32</LINE></led_on1>
+  <led_on2><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.asm</FILE><LINE>39</LINE></led_on2>
+  <loop><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.asm</FILE><LINE>30</LINE></loop>
+  <delay1><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.asm</FILE><LINE>46</LINE></delay1>
+  <wait_0><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.asm</FILE><LINE>36</LINE></wait_0>
+  <delay2><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.asm</FILE><LINE>58</LINE></delay2>
+  <wait_1><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.asm</FILE><LINE>43</LINE></wait_1>
+  <d1><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.asm</FILE><LINE>49</LINE></d1>
+  <d2><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.asm</FILE><LINE>50</LINE></d2>
+  <d3><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.asm</FILE><LINE>51</LINE></d3>
+  <d4><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.asm</FILE><LINE>61</LINE></d4>
+  <d5><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.asm</FILE><LINE>62</LINE></d5>
+  <d6><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.asm</FILE><LINE>63</LINE></d6>
+ </LABELS>
+</ASSEMBLER_INFO>

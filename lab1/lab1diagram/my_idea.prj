@@ -1,0 +1,54 @@
+; ************************************************************
+; PROJECT:
+; AUTHOR:
+; ************************************************************
+
+; Micro + software running
+; ------------------------------------------------------------
+.MICRO "ATmega8515"
+.PROGRAM "lab1.asm"
+.TARGET "lab1.hex"
+
+.TRACE              ; Activate micro trace
+
+; Following lines are optional; if not included
+; exactly these values are taken by default
+; ------------------------------------------------------------
+.POWER VDD=5 VSS=0  ; Power nodes
+.CLOCK 1meg         ; Micro clock
+.STORE 100m         ; Trace (micro+signals) storage time
+
+; Micro nodes: RESET, PA0-PA7, PB0-PB7, PC0-PC7, PD0-PD7, PE0-PE2, ACO, TIM1OVF
+; Define here the hardware around the micro
+; ------------------------------------------------------------
+;------------------------------------------------------------
+;K0 PD0 DND MONOSTABLE (10m)
+K0 GND PD0
+K1 GND PD1
+
+D1 VDD a1
+R1 a1 PB0 150
+
+D2 VDD a2
+R2 a2 PB1 150
+
+D3 VDD a3
+R3 a3 PB2 150
+
+D4 VDD a4
+R4 a4 PB3 150
+
+D5 VDD a5
+R5 a5 PB4 150
+
+D6 VDD a6
+R6 a6 PB5 150
+
+D7 VDD a7
+R7 a7 PB6 150
+
+D8 VDD a8
+R8 a8 PB7 150
+
+
+.PLOT V(PB0)V(PB1)V(PB2)V(PB3)V(PB4)V(PB5)V(PB6)V(PB7)

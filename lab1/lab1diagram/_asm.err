@@ -1,0 +1,17 @@
+Creating   'lab1.eep'
+Creating   'lab1.hex'
+Creating   'lab1.obj'
+Creating   'lab1.lis'
+Creating   'lab1.map'
+
+Assembling 'lab1.asm'
+Including  'D:\apps\avr-studio\vmlab\include\m8515def.inc'
+
+Program memory usage:
+Code             :   38 words
+Constants (dw/db):    0 words
+Unused           :    0 words
+Total            :   38 words
+
+Assembly complete with no errors.
+Deleting   'lab1.eep'

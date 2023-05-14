@@ -1,0 +1,2 @@
+@ECHO OFF
+"D:\apps\avr-studio\avr-studio-4\AvrAssembler2\avrasm2.exe" -S "D:\bmstu\sem6\mps\labs\lab2\lab2task2\labels.tmp" -fI -W+ie -C V2E -o "D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.hex" -d "D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.obj" -e "D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.eep" -m "D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.map" "D:\bmstu\sem6\mps\labs\lab2\lab2task2\lab2task2.asm"
