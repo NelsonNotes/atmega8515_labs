@@ -19,19 +19,13 @@
   <FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.map</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <INIT><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>20</LINE></INIT>
-  <led_on1><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>50</LINE></led_on1>
-  <led_on2><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>57</LINE></led_on2>
-  <loop><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>46</LINE></loop>
-  <delay1><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>64</LINE></delay1>
-  <wait_0><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>54</LINE></wait_0>
-  <delay2><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>76</LINE></delay2>
-  <wait_1><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>61</LINE></wait_1>
-  <d1><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>67</LINE></d1>
-  <d2><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>68</LINE></d2>
-  <d3><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>69</LINE></d3>
-  <d4><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>79</LINE></d4>
-  <d5><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>80</LINE></d5>
-  <d6><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>81</LINE></d6>
+  <INIT><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>24</LINE></INIT>
+  <job_set><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>61</LINE></job_set>
+  <job_clr><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>64</LINE></job_clr>
+  <MAIN><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>52</LINE></MAIN>
+  <delay1><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>68</LINE></delay1>
+  <d1><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>71</LINE></d1>
+  <d2><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>72</LINE></d2>
+  <d3><FILE>D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm</FILE><LINE>73</LINE></d3>
  </LABELS>
 </ASSEMBLER_INFO>

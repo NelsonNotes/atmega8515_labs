@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.1.42  D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm Sun May 14 21:05:07 2023
+AVRASM ver. 2.1.42  D:\bmstu\sem6\mps\labs\lab2\lab2task3\lab2task3.asm Sun May 21 16:48:41 2023
 
 
 EQU  SIGNATURE_000 0000001e
@@ -473,19 +473,14 @@ EQU  SPMRaddr     00000010
 EQU  INT_VECTORS_SIZE 00000011
 DEF  temp         r16
 DEF  led_state    r17
+DEF  job          r18
 EQU  sw1          00000003
 EQU  sw2          00000000
 CSEG INIT         0000000e
-CSEG led_on1      00000022
-CSEG led_on2      00000028
-CSEG loop         00000020
-CSEG delay1       0000002e
-CSEG wait_0       00000025
-CSEG delay2       00000038
-CSEG wait_1       0000002b
-CSEG d1           0000002f
-CSEG d2           00000030
-CSEG d3           00000031
-CSEG d4           00000039
-CSEG d5           0000003a
-CSEG d6           0000003b
+CSEG job_set      00000028
+CSEG job_clr      0000002a
+CSEG MAIN         00000022
+CSEG delay1       0000002c
+CSEG d1           0000002d
+CSEG d2           0000002e
+CSEG d3           0000002f
