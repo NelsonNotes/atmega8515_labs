@@ -1,1 +1,8 @@
 lab1Ilya
+
+*.bat
+*.aws
+*.hex
+*.map
+*.obj
+*.tmp

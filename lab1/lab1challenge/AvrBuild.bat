@@ -1,2 +1,0 @@
-@ECHO OFF
-"D:\apps\avr-studio\avr-studio-4\AvrAssembler2\avrasm2.exe" -S "D:\bmstu\sem6\mps\labs\lab1challenge\labels.tmp" -fI -W+ie -C V2E -o "D:\bmstu\sem6\mps\labs\lab1challenge\lab1challenge.hex" -d "D:\bmstu\sem6\mps\labs\lab1challenge\lab1challenge.obj" -e "D:\bmstu\sem6\mps\labs\lab1challenge\lab1challenge.eep" -m "D:\bmstu\sem6\mps\labs\lab1challenge\lab1challenge.map" "D:\bmstu\sem6\mps\labs\lab1challenge\lab1challenge.asm"
